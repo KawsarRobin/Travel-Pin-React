@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "St Martin Island",
+    "location": "Teknaf, Coxbazar",
+    "cost": "100",
+    "duration": "3days & 2nights",
+    "type": "Relax tour",
+    "flight": "In 3 days after booking",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/09/5e/2b/1d/saint-martin-s-island.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Sadha Pathor",
+    "location": "Volaganj,Syllet",
+    "cost": "140",
+    "duration": "4days & 3nights",
+    "type": "Relax tour",
+    "flight": "In 7 days after booking",
+    "image": "https://porzoton.com/wp-content/uploads/2020/02/Sada-Pathor-Bholaganj.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Marayong Thong",
+    "location": "Thanchi, Bandarban",
+    "cost": "200",
+    "duration": "3days & 2nights",
+    "type": "Advancer tour",
+    "flight": "In 3 days after booking",
+    "image": "https://www.travelmate.com.bd/wp-content/uploads/2021/03/Marayong-Thong-Jadi-Bandarban.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Boga-Lake",
+    "location": "Ruma, Bandarban",
+    "cost": "240",
+    "duration": "5days & 4nights",
+    "type": "Relax and advancer tour",
+    "flight": "In 10 days after booking",
+    "image": "https://bdsearcher.com/wp-content/uploads/2017/08/Boga-Lake-Bandarban.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Lake Shore",
+    "location": "Kaptai, Chittagong",
+    "cost": "90",
+    "duration": "2days & 1nights",
+    "type": "Relax tour",
+    "flight": "In 3 days after booking",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipPmvX5BlvJ8RaOFROGhUXWf6noEtM6BHJiv6hS5=w1080-k-no"
+  },
+  {
+    "id": "6",
+    "name": "RangaMati",
+    "location": "Rangamati, Chittagong",
+    "cost": "120",
+    "duration": "3days & 2nights",
+    "type": "Relax tour",
+    "flight": "In 3 days after booking",
+    "image": "https://media-eng.dhakatribune.com/uploads/2018/10/web-rangamati-syed-zakir-hossai-1540382280927.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Tanguar Haor",
+    "location": "Sunamganj, Syllet",
+    "cost": "155",
+    "duration": "3days & 3nights",
+    "type": "Relax tour",
+    "flight": "In 4 days after booking",
+    "image": "https://chokkor.com/wp-content/uploads/2018/10/Tanguar-Haor-1.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Sajek Vallly",
+    "location": "Khagrachari, Chittagong",
+    "cost": "150",
+    "duration": "3days & 2nights",
+    "type": "Relax tour",
+    "flight": "In 7 days after booking",
+    "image": "https://porzoton.com/wp-content/uploads/2020/03/Sajek-Valley-900.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Coxs-Bazar",
+    "location": "Coxsbazar, Chittagong",
+    "cost": "170",
+    "duration": "3days & 4nights",
+    "type": "Relax tour",
+    "flight": "In 5 days after booking",
+    "image": "https://dhakato.com/wp-content/uploads/2020/02/dhaka_to_coxs_bazar.jpg"
+  },
+  {
+    "id": "10",
+    "name": "NafaKhum-AmiyaKhum",
+    "location": "Thanchi, Bandarban",
+    "cost": "200",
+    "duration": "4days & 5nights",
+    "type": "Advancer",
+    "flight": "In 7 days after booking",
+    "image": "https://observerbd.com/2020/10/06/observerbd.com_1601983662.jpg"
+  },
+  {
+    "id": "11",
+    "name": "DebotaKhum",
+    "location": "Roangchari, Bandarban",
+    "cost": "100",
+    "duration": "2days & 1nights",
+    "type": "Relax and advancer tour",
+    "flight": "In 2 days after booking",
+    "image": "https://i2.wp.com/adarbepari.com/wp-content/uploads/2018/12/debotakhum-bandarban-01.jpg?fit=830%2C435&ssl=1"
+  },
+  {
+    "id": "12",
+    "name": "Nikli Haor",
+    "location": "Kishor-Ganj",
+    "cost": "160",
+    "duration": "3days & 2nights",
+    "type": "Relax tour",
+    "flight": "In 3 days after booking",
+    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1244562407755677697/pu/img/Piy-RIX-3ldNCIQq.jpg"
+  }
+]
