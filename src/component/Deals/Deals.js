@@ -17,10 +17,10 @@ const Deals = () => {
     const newDeal = [...cart, deal];
     setCart(newDeal);
   };
-  // console.log(cart);
+
   return (
     <div>
-      <div className="row g-4 ms-5 my-5">
+      <div className="row g-4 ms-5 py-5">
         <div className="col-md-9 deals">
           <div className="row g-4">
             {deals?.map((deal) => (

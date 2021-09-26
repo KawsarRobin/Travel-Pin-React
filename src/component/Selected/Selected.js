@@ -4,7 +4,6 @@ import './Selected.css';
 const Selected = (props) => {
   const { name, image } = props?.deal;
 
-  console.log(name, image);
   return (
     <>
       <div className="d-flex  my-3">

@@ -3,5 +3,7 @@
 }
 .deal {
   height: 100%;
+  border: 1px solid #e0dbdb;
   border-radius: 10px;
+  background-color: rgb(246, 253, 246);
 }

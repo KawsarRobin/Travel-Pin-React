@@ -10,7 +10,7 @@ const Deal = (props) => {
 
   return (
     <div className="col-md-4 ">
-      <div className="card shadow deal">
+      <div className="card shadow-lg p-2 deal">
         <img src={image} className="card-img-top" alt="..." />
         <div className="card-body">
           <h4 className="card-title">{name}</h4>
@@ -33,7 +33,7 @@ const Deal = (props) => {
             onClick={() => {
               props.handleCart(props.deal);
             }}
-            className=" btn btn-outline-danger btn-sm rounded "
+            className=" btn btn-outline-success btn-sm rounded "
           >
             {cartIcon} Add to cart
           </button>

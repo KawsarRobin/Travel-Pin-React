@@ -11,7 +11,6 @@ import './Cart.css';
 
 const Cart = (props) => {
   const { cart } = props;
-  console.log(cart);
 
   const cartIcon = <FontAwesomeIcon icon={faCartArrowDown} />;
   const totalIcon = <FontAwesomeIcon icon={faHandHoldingUsd} />;
@@ -23,9 +22,8 @@ const Cart = (props) => {
     0
   );
 
-  console.log(totalCost);
   return (
-    <div className="me-3 shadow p-3">
+    <div className=" cart me-3 shadow-lg p-3">
       <h4 className="mb-4">{cartIcon} Selection Summary</h4>
       <h5>
         {selectedIcon} Packages Added: {cart.length}
@@ -33,11 +31,16 @@ const Cart = (props) => {
       <h5>
         {totalIcon} Total Payable: ${totalCost}
       </h5>
+
       {cart.map((deal) => (
         <Selected key={deal.id} deal={deal}></Selected>
       ))}
 
-      <button className="btn btn-success rounded ">{bookIcon} Book Now</button>
+      {/*এক কী বার বার যাওয়ার ফলে ্কী রিলেটেড এরোর আসে , এটার কারণ হচ্ছে কার্টে এক জিনিস একাধিক বার এড হচ্ছে, যেটা করা অপশনাল */}
+
+      <button className="btn btn-primary btn-sm rounded ">
+        {bookIcon} Book Now
+      </button>
     </div>
   );
 };
