@@ -70,8 +70,8 @@ const Header = () => {
           </div>
         </div>
       </nav>
-      <div className=" header-title text-center my-3 pb-3">
-        <h3>Travel Packages</h3>
+      <div className=" header-title text-center my-3 pb-3 container">
+        <h2>Travel Packages</h2>
         <h6>
           Traveling with family or group? Our various payment options such as
           Transfer & ATM and Credit Card will take care of any transactions, big
@@ -79,7 +79,7 @@ const Header = () => {
           Airfare and Hotel. Book the right flight with our no change fees
           filter.
         </h6>
-        <h5>Total Budget For Tours: $1000</h5>
+        <h4>Total Budget For Tours: $1000</h4>
       </div>
     </div>
   );

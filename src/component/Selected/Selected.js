@@ -7,8 +7,8 @@ const Selected = (props) => {
   console.log(name, image);
   return (
     <>
-      <div className="d-flex my-3">
-        <img className="w-25" src={image} alt="" />
+      <div className="d-flex  my-3">
+        <img className="w-25 mx-2" src={image} alt="" />
         <h5>{name}</h5>
       </div>
     </>
