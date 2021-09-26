@@ -33,10 +33,8 @@ const Cart = (props) => {
       </h5>
 
       {cart.map((deal) => (
-        <Selected key={deal.id} deal={deal}></Selected>
+        <Selected key={Math.random()} deal={deal}></Selected>
       ))}
-
-      {/*এক কী বার বার যাওয়ার ফলে ্কী রিলেটেড এরোর আসে , এটার কারণ হচ্ছে কার্টে এক জিনিস একাধিক বার এড হচ্ছে, যেটা করা অপশনাল */}
 
       <button className="btn btn-primary btn-sm rounded ">
         {bookIcon} Book Now

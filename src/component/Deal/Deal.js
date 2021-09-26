@@ -9,7 +9,7 @@ const Deal = (props) => {
   const { name, location, cost, type, duration, image, flight } = props.deal;
 
   return (
-    <div className="col-md-4 ">
+    <div className="col-12 col-md-4">
       <div className="card shadow-lg p-2 deal">
         <img src={image} className="card-img-top" alt="..." />
         <div className="card-body">

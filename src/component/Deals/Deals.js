@@ -20,7 +20,7 @@ const Deals = () => {
 
   return (
     <div>
-      <div className="row g-4 ms-5 py-5">
+      <div className="row g-4 m-2 py-5">
         <div className="col-md-9 deals">
           <div className="row g-4">
             {deals?.map((deal) => (
